@@ -8,7 +8,8 @@
     "2014 upper income share": 20.87,
     "2000 to 2014 lower income change": 4.59,
     "2000 to 2014 middle income change": -5.18,
-    "2000 to 2014 upper income change": 0.59
+    "2000 to 2014 upper income change": 0.59,
+    "": 0
   },
   {
     "Id": 2,
@@ -19,7 +20,8 @@
     "2014 upper income share": 24.78,
     "2000 to 2014 lower income change": -1.94,
     "2000 to 2014 middle income change": -4.99,
-    "2000 to 2014 upper income change": 6.94
+    "2000 to 2014 upper income change": 6.94,
+    "": 0
   },
   {
     "Id": 3,
@@ -30,7 +32,8 @@
     "2014 upper income share": 16.32,
     "2000 to 2014 lower income change": 4.4,
     "2000 to 2014 middle income change": -4.68,
-    "2000 to 2014 upper income change": 0.29
+    "2000 to 2014 upper income change": 0.29,
+    "": 0
   },
   {
     "Id": 4,
@@ -41,7 +44,8 @@
     "2014 upper income share": 19.06,
     "2000 to 2014 lower income change": 2.17,
     "2000 to 2014 middle income change": -5.01,
-    "2000 to 2014 upper income change": 2.85
+    "2000 to 2014 upper income change": 2.85,
+    "": 0
   },
   {
     "Id": 5,
@@ -52,7 +56,8 @@
     "2014 upper income share": 20.02,
     "2000 to 2014 lower income change": -4.83,
     "2000 to 2014 middle income change": -2.16,
-    "2000 to 2014 upper income change": 6.98
+    "2000 to 2014 upper income change": 6.98,
+    "": 0
   },
   {
     "Id": 6,
@@ -63,7 +68,8 @@
     "2014 upper income share": 24.23,
     "2000 to 2014 lower income change": -1.72,
     "2000 to 2014 middle income change": -2.7,
-    "2000 to 2014 upper income change": 4.42
+    "2000 to 2014 upper income change": 4.42,
+    "": 0
   },
   {
     "Id": 7,
@@ -74,7 +80,8 @@
     "2014 upper income share": 25.07,
     "2000 to 2014 lower income change": 3.74,
     "2000 to 2014 middle income change": -1.91,
-    "2000 to 2014 upper income change": -1.84
+    "2000 to 2014 upper income change": -1.84,
+    "": 0
   },
   {
     "Id": 8,
@@ -85,7 +92,8 @@
     "2014 upper income share": 15.99,
     "2000 to 2014 lower income change": 0.57,
     "2000 to 2014 middle income change": -4.16,
-    "2000 to 2014 upper income change": 3.59
+    "2000 to 2014 upper income change": 3.59,
+    "": 0
   },
   {
     "Id": 9,
@@ -96,7 +104,8 @@
     "2014 upper income share": 22.57,
     "2000 to 2014 lower income change": 6.95,
     "2000 to 2014 middle income change": -5.57,
-    "2000 to 2014 upper income change": -1.37
+    "2000 to 2014 upper income change": -1.37,
+    "": 0
   },
   {
     "Id": 10,
@@ -107,7 +116,8 @@
     "2014 upper income share": 17.04,
     "2000 to 2014 lower income change": 0.83,
     "2000 to 2014 middle income change": -6.35,
-    "2000 to 2014 upper income change": 5.52
+    "2000 to 2014 upper income change": 5.52,
+    "": 0
   },
   {
     "Id": 11,
@@ -118,7 +128,8 @@
     "2014 upper income share": 18.53,
     "2000 to 2014 lower income change": 3.41,
     "2000 to 2014 middle income change": -6.73,
-    "2000 to 2014 upper income change": 3.32
+    "2000 to 2014 upper income change": 3.32,
+    "": 0
   },
   {
     "Id": 12,
@@ -129,7 +140,8 @@
     "2014 upper income share": 17.97,
     "2000 to 2014 lower income change": 2.29,
     "2000 to 2014 middle income change": -2.36,
-    "2000 to 2014 upper income change": 0.07
+    "2000 to 2014 upper income change": 0.07,
+    "": 0
   },
   {
     "Id": 13,
@@ -140,7 +152,8 @@
     "2014 upper income share": 24.1,
     "2000 to 2014 lower income change": 0.23,
     "2000 to 2014 middle income change": -2.58,
-    "2000 to 2014 upper income change": 2.34
+    "2000 to 2014 upper income change": 2.34,
+    "": 0
   },
   {
     "Id": 14,
@@ -151,7 +164,8 @@
     "2014 upper income share": 14.91,
     "2000 to 2014 lower income change": 1.14,
     "2000 to 2014 middle income change": -3.66,
-    "2000 to 2014 upper income change": 2.52
+    "2000 to 2014 upper income change": 2.52,
+    "": 0
   },
   {
     "Id": 15,
@@ -162,7 +176,8 @@
     "2014 upper income share": 25.72,
     "2000 to 2014 lower income change": -0.04,
     "2000 to 2014 middle income change": -6.25,
-    "2000 to 2014 upper income change": 6.3
+    "2000 to 2014 upper income change": 6.3,
+    "": 0
   },
   {
     "Id": 16,
@@ -173,7 +188,8 @@
     "2014 upper income share": 13.26,
     "2000 to 2014 lower income change": -0.57,
     "2000 to 2014 middle income change": -2.28,
-    "2000 to 2014 upper income change": 2.85
+    "2000 to 2014 upper income change": 2.85,
+    "": 0
   },
   {
     "Id": 17,
@@ -184,7 +200,8 @@
     "2014 upper income share": 30.28,
     "2000 to 2014 lower income change": -3.83,
     "2000 to 2014 middle income change": -7.83,
-    "2000 to 2014 upper income change": 11.66
+    "2000 to 2014 upper income change": 11.66,
+    "": 0
   },
   {
     "Id": 18,
@@ -195,7 +212,8 @@
     "2014 upper income share": 21.31,
     "2000 to 2014 lower income change": -5.35,
     "2000 to 2014 middle income change": 0.12,
-    "2000 to 2014 upper income change": 5.25
+    "2000 to 2014 upper income change": 5.25,
+    "": 0
   },
   {
     "Id": 19,
@@ -206,7 +224,8 @@
     "2014 upper income share": 17.01,
     "2000 to 2014 lower income change": 1.62,
     "2000 to 2014 middle income change": -2.77,
-    "2000 to 2014 upper income change": 1.15
+    "2000 to 2014 upper income change": 1.15,
+    "": 0
   },
   {
     "Id": 20,
@@ -217,7 +236,8 @@
     "2014 upper income share": 16.1,
     "2000 to 2014 lower income change": 2.81,
     "2000 to 2014 middle income change": -4.02,
-    "2000 to 2014 upper income change": 1.2
+    "2000 to 2014 upper income change": 1.2,
+    "": 0
   },
   {
     "Id": 21,
@@ -228,7 +248,8 @@
     "2014 upper income share": 19.81,
     "2000 to 2014 lower income change": 4.42,
     "2000 to 2014 middle income change": -8.42,
-    "2000 to 2014 upper income change": 3.99
+    "2000 to 2014 upper income change": 3.99,
+    "": 0
   },
   {
     "Id": 22,
@@ -239,7 +260,8 @@
     "2014 upper income share": 17.36,
     "2000 to 2014 lower income change": 0.29,
     "2000 to 2014 middle income change": -4,
-    "2000 to 2014 upper income change": 3.7
+    "2000 to 2014 upper income change": 3.7,
+    "": 0
   },
   {
     "Id": 23,
@@ -250,7 +272,8 @@
     "2014 upper income share": 20.5,
     "2000 to 2014 lower income change": 2.73,
     "2000 to 2014 middle income change": -4.11,
-    "2000 to 2014 upper income change": 1.38
+    "2000 to 2014 upper income change": 1.38,
+    "": 0
   },
   {
     "Id": 24,
@@ -261,7 +284,8 @@
     "2014 upper income share": 15.03,
     "2000 to 2014 lower income change": -0.18,
     "2000 to 2014 middle income change": -1.71,
-    "2000 to 2014 upper income change": 1.89
+    "2000 to 2014 upper income change": 1.89,
+    "": 0
   },
   {
     "Id": 25,
@@ -272,7 +296,8 @@
     "2014 upper income share": 25.33,
     "2000 to 2014 lower income change": 4.82,
     "2000 to 2014 middle income change": -7.88,
-    "2000 to 2014 upper income change": 3.05
+    "2000 to 2014 upper income change": 3.05,
+    "": 0
   },
   {
     "Id": 26,
@@ -283,7 +308,8 @@
     "2014 upper income share": 15.59,
     "2000 to 2014 lower income change": 6.63,
     "2000 to 2014 middle income change": -5.71,
-    "2000 to 2014 upper income change": -0.92
+    "2000 to 2014 upper income change": -0.92,
+    "": 0
   },
   {
     "Id": 27,
@@ -294,7 +320,8 @@
     "2014 upper income share": 29.63,
     "2000 to 2014 lower income change": 0.37,
     "2000 to 2014 middle income change": -7.28,
-    "2000 to 2014 upper income change": 6.91
+    "2000 to 2014 upper income change": 6.91,
+    "": 0
   },
   {
     "Id": 28,
@@ -305,7 +332,8 @@
     "2014 upper income share": 19.79,
     "2000 to 2014 lower income change": -0.18,
     "2000 to 2014 middle income change": -2.86,
-    "2000 to 2014 upper income change": 3.05
+    "2000 to 2014 upper income change": 3.05,
+    "": 0
   },
   {
     "Id": 29,
@@ -316,7 +344,8 @@
     "2014 upper income share": 32,
     "2000 to 2014 lower income change": 0.79,
     "2000 to 2014 middle income change": -4.18,
-    "2000 to 2014 upper income change": 3.39
+    "2000 to 2014 upper income change": 3.39,
+    "": 0
   },
   {
     "Id": 30,
@@ -327,7 +356,8 @@
     "2014 upper income share": 10.41,
     "2000 to 2014 lower income change": -2.86,
     "2000 to 2014 middle income change": 1.48,
-    "2000 to 2014 upper income change": 1.38
+    "2000 to 2014 upper income change": 1.38,
+    "": 0
   },
   {
     "Id": 31,
@@ -338,7 +368,8 @@
     "2014 upper income share": 20.94,
     "2000 to 2014 lower income change": 0.89,
     "2000 to 2014 middle income change": -5.15,
-    "2000 to 2014 upper income change": 4.25
+    "2000 to 2014 upper income change": 4.25,
+    "": 0
   },
   {
     "Id": 32,
@@ -349,7 +380,8 @@
     "2014 upper income share": 14.1,
     "2000 to 2014 lower income change": 8.31,
     "2000 to 2014 middle income change": -7.44,
-    "2000 to 2014 upper income change": -0.87
+    "2000 to 2014 upper income change": -0.87,
+    "": 0
   },
   {
     "Id": 33,
@@ -360,7 +392,8 @@
     "2014 upper income share": 23.97,
     "2000 to 2014 lower income change": 0.7,
     "2000 to 2014 middle income change": -9.72,
-    "2000 to 2014 upper income change": 9.03
+    "2000 to 2014 upper income change": 9.03,
+    "": 0
   },
   {
     "Id": 34,
@@ -371,7 +404,8 @@
     "2014 upper income share": 16.2,
     "2000 to 2014 lower income change": 2.81,
     "2000 to 2014 middle income change": -3.74,
-    "2000 to 2014 upper income change": 0.93
+    "2000 to 2014 upper income change": 0.93,
+    "": 0
   },
   {
     "Id": 35,
@@ -382,7 +416,8 @@
     "2014 upper income share": 17.42,
     "2000 to 2014 lower income change": 2.45,
     "2000 to 2014 middle income change": -3.78,
-    "2000 to 2014 upper income change": 1.34
+    "2000 to 2014 upper income change": 1.34,
+    "": 0
   },
   {
     "Id": 36,
@@ -393,7 +428,8 @@
     "2014 upper income share": 19.66,
     "2000 to 2014 lower income change": 7.33,
     "2000 to 2014 middle income change": -9.08,
-    "2000 to 2014 upper income change": 1.75
+    "2000 to 2014 upper income change": 1.75,
+    "": 0
   },
   {
     "Id": 37,
@@ -404,7 +440,8 @@
     "2014 upper income share": 20.47,
     "2000 to 2014 lower income change": -3.02,
     "2000 to 2014 middle income change": -2.61,
-    "2000 to 2014 upper income change": 5.62
+    "2000 to 2014 upper income change": 5.62,
+    "": 0
   },
   {
     "Id": 38,
@@ -415,7 +452,8 @@
     "2014 upper income share": 20.36,
     "2000 to 2014 lower income change": 6.73,
     "2000 to 2014 middle income change": -6.51,
-    "2000 to 2014 upper income change": -0.22
+    "2000 to 2014 upper income change": -0.22,
+    "": 0
   },
   {
     "Id": 39,
@@ -426,7 +464,8 @@
     "2014 upper income share": 17.54,
     "2000 to 2014 lower income change": 3.13,
     "2000 to 2014 middle income change": -5.04,
-    "2000 to 2014 upper income change": 1.91
+    "2000 to 2014 upper income change": 1.91,
+    "": 0
   },
   {
     "Id": 40,
@@ -437,7 +476,8 @@
     "2014 upper income share": 21.46,
     "2000 to 2014 lower income change": 3.85,
     "2000 to 2014 middle income change": -5.14,
-    "2000 to 2014 upper income change": 1.29
+    "2000 to 2014 upper income change": 1.29,
+    "": 0
   },
   {
     "Id": 41,
@@ -448,7 +488,8 @@
     "2014 upper income share": 13.13,
     "2000 to 2014 lower income change": 0.58,
     "2000 to 2014 middle income change": -2.71,
-    "2000 to 2014 upper income change": 2.15
+    "2000 to 2014 upper income change": 2.15,
+    "": 0
   },
   {
     "Id": 42,
@@ -459,7 +500,8 @@
     "2014 upper income share": 25.18,
     "2000 to 2014 lower income change": 1.63,
     "2000 to 2014 middle income change": -5.77,
-    "2000 to 2014 upper income change": 4.14
+    "2000 to 2014 upper income change": 4.14,
+    "": 0
   },
   {
     "Id": 43,
@@ -470,7 +512,8 @@
     "2014 upper income share": 12.11,
     "2000 to 2014 lower income change": 1.66,
     "2000 to 2014 middle income change": -3.42,
-    "2000 to 2014 upper income change": 1.77
+    "2000 to 2014 upper income change": 1.77,
+    "": 0
   },
   {
     "Id": 44,
@@ -481,7 +524,8 @@
     "2014 upper income share": 22.27,
     "2000 to 2014 lower income change": 4.48,
     "2000 to 2014 middle income change": -4.58,
-    "2000 to 2014 upper income change": 0.11
+    "2000 to 2014 upper income change": 0.11,
+    "": 0
   },
   {
     "Id": 45,
@@ -492,7 +536,8 @@
     "2014 upper income share": 21.72,
     "2000 to 2014 lower income change": 2.91,
     "2000 to 2014 middle income change": -6.46,
-    "2000 to 2014 upper income change": 3.56
+    "2000 to 2014 upper income change": 3.56,
+    "": 0
   },
   {
     "Id": 46,
@@ -503,7 +548,8 @@
     "2014 upper income share": 17.73,
     "2000 to 2014 lower income change": 0.7,
     "2000 to 2014 middle income change": -0.31,
-    "2000 to 2014 upper income change": -0.4
+    "2000 to 2014 upper income change": -0.4,
+    "": 0
   },
   {
     "Id": 47,
@@ -514,7 +560,8 @@
     "2014 upper income share": 24.88,
     "2000 to 2014 lower income change": 2.93,
     "2000 to 2014 middle income change": -6.76,
-    "2000 to 2014 upper income change": 3.82
+    "2000 to 2014 upper income change": 3.82,
+    "": 0
   },
   {
     "Id": 48,
@@ -525,7 +572,8 @@
     "2014 upper income share": 17.8,
     "2000 to 2014 lower income change": -4.25,
     "2000 to 2014 middle income change": -0.67,
-    "2000 to 2014 upper income change": 4.92
+    "2000 to 2014 upper income change": 4.92,
+    "": 0
   },
   {
     "Id": 49,
@@ -536,7 +584,8 @@
     "2014 upper income share": 21.99,
     "2000 to 2014 lower income change": 2.3,
     "2000 to 2014 middle income change": -4.12,
-    "2000 to 2014 upper income change": 1.82
+    "2000 to 2014 upper income change": 1.82,
+    "": 0
   },
   {
     "Id": 50,
@@ -547,7 +596,8 @@
     "2014 upper income share": 22.38,
     "2000 to 2014 lower income change": -0.2,
     "2000 to 2014 middle income change": -6.1,
-    "2000 to 2014 upper income change": 6.31
+    "2000 to 2014 upper income change": 6.31,
+    "": 0
   },
   {
     "Id": 51,
@@ -558,7 +608,8 @@
     "2014 upper income share": 20.35,
     "2000 to 2014 lower income change": 4.84,
     "2000 to 2014 middle income change": -5.3,
-    "2000 to 2014 upper income change": 0.46
+    "2000 to 2014 upper income change": 0.46,
+    "": 0
   },
   {
     "Id": 52,
@@ -569,7 +620,8 @@
     "2014 upper income share": 16.69,
     "2000 to 2014 lower income change": -0.61,
     "2000 to 2014 middle income change": 0.76,
-    "2000 to 2014 upper income change": -0.16
+    "2000 to 2014 upper income change": -0.16,
+    "": 0
   },
   {
     "Id": 53,
@@ -580,7 +632,8 @@
     "2014 upper income share": 20.64,
     "2000 to 2014 lower income change": -0.21,
     "2000 to 2014 middle income change": -3.57,
-    "2000 to 2014 upper income change": 3.78
+    "2000 to 2014 upper income change": 3.78,
+    "": 0
   },
   {
     "Id": 54,
@@ -591,7 +644,8 @@
     "2014 upper income share": 12.51,
     "2000 to 2014 lower income change": 2.67,
     "2000 to 2014 middle income change": -3.16,
-    "2000 to 2014 upper income change": 0.49
+    "2000 to 2014 upper income change": 0.49,
+    "": 0
   },
   {
     "Id": 55,
@@ -602,7 +656,8 @@
     "2014 upper income share": 24.58,
     "2000 to 2014 lower income change": 3.66,
     "2000 to 2014 middle income change": -4.68,
-    "2000 to 2014 upper income change": 1.01
+    "2000 to 2014 upper income change": 1.01,
+    "": 0
   },
   {
     "Id": 56,
@@ -613,7 +668,8 @@
     "2014 upper income share": 20.52,
     "2000 to 2014 lower income change": 6.9,
     "2000 to 2014 middle income change": -3.66,
-    "2000 to 2014 upper income change": -3.24
+    "2000 to 2014 upper income change": -3.24,
+    "": 0
   },
   {
     "Id": 57,
@@ -624,7 +680,8 @@
     "2014 upper income share": 19.34,
     "2000 to 2014 lower income change": -2.67,
     "2000 to 2014 middle income change": -3,
-    "2000 to 2014 upper income change": 5.67
+    "2000 to 2014 upper income change": 5.67,
+    "": 0
   },
   {
     "Id": 58,
@@ -635,7 +692,8 @@
     "2014 upper income share": 16.69,
     "2000 to 2014 lower income change": -1.66,
     "2000 to 2014 middle income change": -0.54,
-    "2000 to 2014 upper income change": 2.2
+    "2000 to 2014 upper income change": 2.2,
+    "": 0
   },
   {
     "Id": 59,
@@ -646,7 +704,8 @@
     "2014 upper income share": 16.16,
     "2000 to 2014 lower income change": -1.14,
     "2000 to 2014 middle income change": -3.76,
-    "2000 to 2014 upper income change": 4.89
+    "2000 to 2014 upper income change": 4.89,
+    "": 0
   },
   {
     "Id": 60,
@@ -657,7 +716,8 @@
     "2014 upper income share": 13.25,
     "2000 to 2014 lower income change": -1.84,
     "2000 to 2014 middle income change": -2.19,
-    "2000 to 2014 upper income change": 4.02
+    "2000 to 2014 upper income change": 4.02,
+    "": 0
   },
   {
     "Id": 61,
@@ -668,7 +728,8 @@
     "2014 upper income share": 10.87,
     "2000 to 2014 lower income change": 0.85,
     "2000 to 2014 middle income change": -1.78,
-    "2000 to 2014 upper income change": 0.93
+    "2000 to 2014 upper income change": 0.93,
+    "": 0
   },
   {
     "Id": 62,
@@ -679,7 +740,8 @@
     "2014 upper income share": 15.52,
     "2000 to 2014 lower income change": 2.42,
     "2000 to 2014 middle income change": -2.66,
-    "2000 to 2014 upper income change": 0.24
+    "2000 to 2014 upper income change": 0.24,
+    "": 0
   },
   {
     "Id": 63,
@@ -690,7 +752,8 @@
     "2014 upper income share": 17.2,
     "2000 to 2014 lower income change": 3.75,
     "2000 to 2014 middle income change": -9.64,
-    "2000 to 2014 upper income change": 5.89
+    "2000 to 2014 upper income change": 5.89,
+    "": 0
   },
   {
     "Id": 64,
@@ -701,7 +764,8 @@
     "2014 upper income share": 13.28,
     "2000 to 2014 lower income change": 3.99,
     "2000 to 2014 middle income change": -4.68,
-    "2000 to 2014 upper income change": 0.69
+    "2000 to 2014 upper income change": 0.69,
+    "": 0
   },
   {
     "Id": 65,
@@ -712,7 +776,8 @@
     "2014 upper income share": 14.56,
     "2000 to 2014 lower income change": 5.62,
     "2000 to 2014 middle income change": -8.24,
-    "2000 to 2014 upper income change": 2.6
+    "2000 to 2014 upper income change": 2.6,
+    "": 0
   },
   {
     "Id": 66,
@@ -723,7 +788,8 @@
     "2014 upper income share": 19.97,
     "2000 to 2014 lower income change": 1.41,
     "2000 to 2014 middle income change": -7.68,
-    "2000 to 2014 upper income change": 6.26
+    "2000 to 2014 upper income change": 6.26,
+    "": 0
   },
   {
     "Id": 67,
@@ -734,7 +800,8 @@
     "2014 upper income share": 17.8,
     "2000 to 2014 lower income change": 0.62,
     "2000 to 2014 middle income change": -4.7,
-    "2000 to 2014 upper income change": 4.08
+    "2000 to 2014 upper income change": 4.08,
+    "": 0
   },
   {
     "Id": 68,
@@ -745,7 +812,8 @@
     "2014 upper income share": 18.06,
     "2000 to 2014 lower income change": 5.45,
     "2000 to 2014 middle income change": -3.19,
-    "2000 to 2014 upper income change": -2.25
+    "2000 to 2014 upper income change": -2.25,
+    "": 0
   },
   {
     "Id": 69,
@@ -756,7 +824,8 @@
     "2014 upper income share": 14.39,
     "2000 to 2014 lower income change": 6.76,
     "2000 to 2014 middle income change": -2.32,
-    "2000 to 2014 upper income change": -4.44
+    "2000 to 2014 upper income change": -4.44,
+    "": 0
   },
   {
     "Id": 70,
@@ -767,7 +836,8 @@
     "2014 upper income share": 12.52,
     "2000 to 2014 lower income change": 1.72,
     "2000 to 2014 middle income change": -2.36,
-    "2000 to 2014 upper income change": 0.64
+    "2000 to 2014 upper income change": 0.64,
+    "": 0
   },
   {
     "Id": 71,
@@ -778,7 +848,8 @@
     "2014 upper income share": 11.83,
     "2000 to 2014 lower income change": 1.83,
     "2000 to 2014 middle income change": 0.88,
-    "2000 to 2014 upper income change": -2.71
+    "2000 to 2014 upper income change": -2.71,
+    "": 0
   },
   {
     "Id": 72,
@@ -789,7 +860,8 @@
     "2014 upper income share": 17.16,
     "2000 to 2014 lower income change": -3.55,
     "2000 to 2014 middle income change": 0.63,
-    "2000 to 2014 upper income change": 2.92
+    "2000 to 2014 upper income change": 2.92,
+    "": 0
   },
   {
     "Id": 73,
@@ -800,7 +872,8 @@
     "2014 upper income share": 17.81,
     "2000 to 2014 lower income change": 3.91,
     "2000 to 2014 middle income change": -4.12,
-    "2000 to 2014 upper income change": 0.2
+    "2000 to 2014 upper income change": 0.2,
+    "": 0
   },
   {
     "Id": 74,
@@ -811,7 +884,8 @@
     "2014 upper income share": 14.63,
     "2000 to 2014 lower income change": 0.19,
     "2000 to 2014 middle income change": -3.25,
-    "2000 to 2014 upper income change": 3.06
+    "2000 to 2014 upper income change": 3.06,
+    "": 0
   },
   {
     "Id": 75,
@@ -822,7 +896,8 @@
     "2014 upper income share": 11.36,
     "2000 to 2014 lower income change": 13.69,
     "2000 to 2014 middle income change": -11.88,
-    "2000 to 2014 upper income change": -1.81
+    "2000 to 2014 upper income change": -1.81,
+    "": 0
   },
   {
     "Id": 76,
@@ -833,7 +908,8 @@
     "2014 upper income share": 19.96,
     "2000 to 2014 lower income change": -1.88,
     "2000 to 2014 middle income change": -6.77,
-    "2000 to 2014 upper income change": 8.65
+    "2000 to 2014 upper income change": 8.65,
+    "": 0
   },
   {
     "Id": 77,
@@ -844,7 +920,8 @@
     "2014 upper income share": 18.42,
     "2000 to 2014 lower income change": 6.82,
     "2000 to 2014 middle income change": -6,
-    "2000 to 2014 upper income change": -0.82
+    "2000 to 2014 upper income change": -0.82,
+    "": 0
   },
   {
     "Id": 78,
@@ -855,7 +932,8 @@
     "2014 upper income share": 15.92,
     "2000 to 2014 lower income change": 7.19,
     "2000 to 2014 middle income change": -5.96,
-    "2000 to 2014 upper income change": -1.22
+    "2000 to 2014 upper income change": -1.22,
+    "": 0
   },
   {
     "Id": 79,
@@ -866,7 +944,8 @@
     "2014 upper income share": 14.33,
     "2000 to 2014 lower income change": 5.16,
     "2000 to 2014 middle income change": -4.21,
-    "2000 to 2014 upper income change": -0.95
+    "2000 to 2014 upper income change": -0.95,
+    "": 0
   },
   {
     "Id": 80,
@@ -877,7 +956,8 @@
     "2014 upper income share": 16.43,
     "2000 to 2014 lower income change": 6.86,
     "2000 to 2014 middle income change": -6.92,
-    "2000 to 2014 upper income change": 0.05
+    "2000 to 2014 upper income change": 0.05,
+    "": 0
   },
   {
     "Id": 81,
@@ -888,7 +968,8 @@
     "2014 upper income share": 12.74,
     "2000 to 2014 lower income change": 4.72,
     "2000 to 2014 middle income change": -5.34,
-    "2000 to 2014 upper income change": 0.62
+    "2000 to 2014 upper income change": 0.62,
+    "": 0
   },
   {
     "Id": 82,
@@ -899,7 +980,8 @@
     "2014 upper income share": 11.77,
     "2000 to 2014 lower income change": -2.07,
     "2000 to 2014 middle income change": 1.38,
-    "2000 to 2014 upper income change": 0.69
+    "2000 to 2014 upper income change": 0.69,
+    "": 0
   },
   {
     "Id": 83,
@@ -910,7 +992,8 @@
     "2014 upper income share": 21.05,
     "2000 to 2014 lower income change": 0.03,
     "2000 to 2014 middle income change": -3.12,
-    "2000 to 2014 upper income change": 3.09
+    "2000 to 2014 upper income change": 3.09,
+    "": 0
   },
   {
     "Id": 84,
@@ -921,7 +1004,8 @@
     "2014 upper income share": 29.73,
     "2000 to 2014 lower income change": 2.08,
     "2000 to 2014 middle income change": -6.4,
-    "2000 to 2014 upper income change": 4.31
+    "2000 to 2014 upper income change": 4.31,
+    "": 0
   },
   {
     "Id": 85,
@@ -932,7 +1016,8 @@
     "2014 upper income share": 10.42,
     "2000 to 2014 lower income change": 10.61,
     "2000 to 2014 middle income change": -8.09,
-    "2000 to 2014 upper income change": -2.53
+    "2000 to 2014 upper income change": -2.53,
+    "": 0
   },
   {
     "Id": 86,
@@ -943,7 +1028,8 @@
     "2014 upper income share": 20.89,
     "2000 to 2014 lower income change": -3.69,
     "2000 to 2014 middle income change": 5.4,
-    "2000 to 2014 upper income change": -1.71
+    "2000 to 2014 upper income change": -1.71,
+    "": 0
   },
   {
     "Id": 87,
@@ -954,7 +1040,8 @@
     "2014 upper income share": 14.91,
     "2000 to 2014 lower income change": -2.13,
     "2000 to 2014 middle income change": -2.82,
-    "2000 to 2014 upper income change": 4.95
+    "2000 to 2014 upper income change": 4.95,
+    "": 0
   },
   {
     "Id": 88,
@@ -965,7 +1052,8 @@
     "2014 upper income share": 22.99,
     "2000 to 2014 lower income change": -0.99,
     "2000 to 2014 middle income change": -2.58,
-    "2000 to 2014 upper income change": 3.57
+    "2000 to 2014 upper income change": 3.57,
+    "": 0
   },
   {
     "Id": 89,
@@ -976,7 +1064,8 @@
     "2014 upper income share": 24.39,
     "2000 to 2014 lower income change": 2.41,
     "2000 to 2014 middle income change": -3.98,
-    "2000 to 2014 upper income change": 1.58
+    "2000 to 2014 upper income change": 1.58,
+    "": 0
   },
   {
     "Id": 90,
@@ -987,7 +1076,8 @@
     "2014 upper income share": 20.78,
     "2000 to 2014 lower income change": 4.53,
     "2000 to 2014 middle income change": -4.06,
-    "2000 to 2014 upper income change": -0.46
+    "2000 to 2014 upper income change": -0.46,
+    "": 0
   },
   {
     "Id": 91,
@@ -998,7 +1088,8 @@
     "2014 upper income share": 13.33,
     "2000 to 2014 lower income change": 10.36,
     "2000 to 2014 middle income change": -6.26,
-    "2000 to 2014 upper income change": -4.1
+    "2000 to 2014 upper income change": -4.1,
+    "": 0
   },
   {
     "Id": 92,
@@ -1009,7 +1100,8 @@
     "2014 upper income share": 15.46,
     "2000 to 2014 lower income change": 2.63,
     "2000 to 2014 middle income change": 0.85,
-    "2000 to 2014 upper income change": -3.47
+    "2000 to 2014 upper income change": -3.47,
+    "": 0
   },
   {
     "Id": 93,
@@ -1020,7 +1112,8 @@
     "2014 upper income share": 18.92,
     "2000 to 2014 lower income change": 3.87,
     "2000 to 2014 middle income change": -5.49,
-    "2000 to 2014 upper income change": 1.62
+    "2000 to 2014 upper income change": 1.62,
+    "": 0
   },
   {
     "Id": 94,
@@ -1031,7 +1124,8 @@
     "2014 upper income share": 15.4,
     "2000 to 2014 lower income change": 2.35,
     "2000 to 2014 middle income change": 0,
-    "2000 to 2014 upper income change": -2.35
+    "2000 to 2014 upper income change": -2.35,
+    "": 0
   },
   {
     "Id": 95,
@@ -1042,7 +1136,8 @@
     "2014 upper income share": 18.8,
     "2000 to 2014 lower income change": -3.72,
     "2000 to 2014 middle income change": -3.35,
-    "2000 to 2014 upper income change": 7.08
+    "2000 to 2014 upper income change": 7.08,
+    "": 0
   },
   {
     "Id": 96,
@@ -1053,7 +1148,8 @@
     "2014 upper income share": 13,
     "2000 to 2014 lower income change": -0.38,
     "2000 to 2014 middle income change": -3,
-    "2000 to 2014 upper income change": 3.38
+    "2000 to 2014 upper income change": 3.38,
+    "": 0
   },
   {
     "Id": 97,
@@ -1064,7 +1160,8 @@
     "2014 upper income share": 16.47,
     "2000 to 2014 lower income change": 6.52,
     "2000 to 2014 middle income change": -5.76,
-    "2000 to 2014 upper income change": -0.75
+    "2000 to 2014 upper income change": -0.75,
+    "": 0
   },
   {
     "Id": 98,
@@ -1075,7 +1172,8 @@
     "2014 upper income share": 14.61,
     "2000 to 2014 lower income change": -4.05,
     "2000 to 2014 middle income change": 2.15,
-    "2000 to 2014 upper income change": 1.91
+    "2000 to 2014 upper income change": 1.91,
+    "": 0
   },
   {
     "Id": 99,
@@ -1086,7 +1184,8 @@
     "2014 upper income share": 22.16,
     "2000 to 2014 lower income change": 4.55,
     "2000 to 2014 middle income change": -4.07,
-    "2000 to 2014 upper income change": -0.48
+    "2000 to 2014 upper income change": -0.48,
+    "": 0
   },
   {
     "Id": 100,
@@ -1097,7 +1196,8 @@
     "2014 upper income share": 17.47,
     "2000 to 2014 lower income change": 2.11,
     "2000 to 2014 middle income change": -4.34,
-    "2000 to 2014 upper income change": 2.23
+    "2000 to 2014 upper income change": 2.23,
+    "": 0
   },
   {
     "Id": 101,
@@ -1108,7 +1208,8 @@
     "2014 upper income share": 22.08,
     "2000 to 2014 lower income change": -5.62,
     "2000 to 2014 middle income change": -2.12,
-    "2000 to 2014 upper income change": 7.73
+    "2000 to 2014 upper income change": 7.73,
+    "": 0
   },
   {
     "Id": 102,
@@ -1119,7 +1220,8 @@
     "2014 upper income share": 9.81,
     "2000 to 2014 lower income change": 4.15,
     "2000 to 2014 middle income change": -5.64,
-    "2000 to 2014 upper income change": 1.48
+    "2000 to 2014 upper income change": 1.48,
+    "": 0
   },
   {
     "Id": 103,
@@ -1130,7 +1232,8 @@
     "2014 upper income share": 11.27,
     "2000 to 2014 lower income change": 3.18,
     "2000 to 2014 middle income change": -2.89,
-    "2000 to 2014 upper income change": -0.3
+    "2000 to 2014 upper income change": -0.3,
+    "": 0
   },
   {
     "Id": 104,
@@ -1141,7 +1244,8 @@
     "2014 upper income share": 18.84,
     "2000 to 2014 lower income change": 3.31,
     "2000 to 2014 middle income change": -7.09,
-    "2000 to 2014 upper income change": 3.77
+    "2000 to 2014 upper income change": 3.77,
+    "": 0
   },
   {
     "Id": 105,
@@ -1152,7 +1256,8 @@
     "2014 upper income share": 16.56,
     "2000 to 2014 lower income change": 4.87,
     "2000 to 2014 middle income change": -2.26,
-    "2000 to 2014 upper income change": -2.61
+    "2000 to 2014 upper income change": -2.61,
+    "": 0
   },
   {
     "Id": 106,
@@ -1163,7 +1268,8 @@
     "2014 upper income share": 8.86,
     "2000 to 2014 lower income change": -3.91,
     "2000 to 2014 middle income change": 3.98,
-    "2000 to 2014 upper income change": -0.07
+    "2000 to 2014 upper income change": -0.07,
+    "": 0
   },
   {
     "Id": 107,
@@ -1174,7 +1280,8 @@
     "2014 upper income share": 9.25,
     "2000 to 2014 lower income change": 0.08,
     "2000 to 2014 middle income change": -0.04,
-    "2000 to 2014 upper income change": -0.04
+    "2000 to 2014 upper income change": -0.04,
+    "": 0
   },
   {
     "Id": 108,
@@ -1185,7 +1292,8 @@
     "2014 upper income share": 15.04,
     "2000 to 2014 lower income change": 4.47,
     "2000 to 2014 middle income change": -3.72,
-    "2000 to 2014 upper income change": -0.74
+    "2000 to 2014 upper income change": -0.74,
+    "": 0
   },
   {
     "Id": 109,
@@ -1196,7 +1304,8 @@
     "2014 upper income share": 15.94,
     "2000 to 2014 lower income change": -2.58,
     "2000 to 2014 middle income change": 1.01,
-    "2000 to 2014 upper income change": 1.58
+    "2000 to 2014 upper income change": 1.58,
+    "": 0
   },
   {
     "Id": 110,
@@ -1207,7 +1316,8 @@
     "2014 upper income share": 21.13,
     "2000 to 2014 lower income change": -2.45,
     "2000 to 2014 middle income change": -7.93,
-    "2000 to 2014 upper income change": 10.37
+    "2000 to 2014 upper income change": 10.37,
+    "": 0
   },
   {
     "Id": 111,
@@ -1218,7 +1328,8 @@
     "2014 upper income share": 20.02,
     "2000 to 2014 lower income change": 3.4,
     "2000 to 2014 middle income change": -4.96,
-    "2000 to 2014 upper income change": 1.56
+    "2000 to 2014 upper income change": 1.56,
+    "": 0
   },
   {
     "Id": 112,
@@ -1229,7 +1340,8 @@
     "2014 upper income share": 17.64,
     "2000 to 2014 lower income change": 1.26,
     "2000 to 2014 middle income change": -1.71,
-    "2000 to 2014 upper income change": 0.43
+    "2000 to 2014 upper income change": 0.43,
+    "": 0
   },
   {
     "Id": 113,
@@ -1240,7 +1352,8 @@
     "2014 upper income share": 16.27,
     "2000 to 2014 lower income change": -0.08,
     "2000 to 2014 middle income change": -0.73,
-    "2000 to 2014 upper income change": 0.81
+    "2000 to 2014 upper income change": 0.81,
+    "": 0
   },
   {
     "Id": 114,
@@ -1251,7 +1364,8 @@
     "2014 upper income share": 20.52,
     "2000 to 2014 lower income change": 2.55,
     "2000 to 2014 middle income change": -4.11,
-    "2000 to 2014 upper income change": 1.57
+    "2000 to 2014 upper income change": 1.57,
+    "": 0
   },
   {
     "Id": 115,
@@ -1262,7 +1376,8 @@
     "2014 upper income share": 14.59,
     "2000 to 2014 lower income change": -1.56,
     "2000 to 2014 middle income change": 0.26,
-    "2000 to 2014 upper income change": 1.29
+    "2000 to 2014 upper income change": 1.29,
+    "": 0
   },
   {
     "Id": 116,
@@ -1273,7 +1388,8 @@
     "2014 upper income share": 16.03,
     "2000 to 2014 lower income change": 3.13,
     "2000 to 2014 middle income change": -3.83,
-    "2000 to 2014 upper income change": 0.69
+    "2000 to 2014 upper income change": 0.69,
+    "": 0
   },
   {
     "Id": 117,
@@ -1284,7 +1400,8 @@
     "2014 upper income share": 10.23,
     "2000 to 2014 lower income change": -4.01,
     "2000 to 2014 middle income change": 4.35,
-    "2000 to 2014 upper income change": -0.34
+    "2000 to 2014 upper income change": -0.34,
+    "": 0
   },
   {
     "Id": 118,
@@ -1295,7 +1412,8 @@
     "2014 upper income share": 22.71,
     "2000 to 2014 lower income change": 0.91,
     "2000 to 2014 middle income change": -5.69,
-    "2000 to 2014 upper income change": 4.79
+    "2000 to 2014 upper income change": 4.79,
+    "": 0
   },
   {
     "Id": 119,
@@ -1306,7 +1424,8 @@
     "2014 upper income share": 13.07,
     "2000 to 2014 lower income change": 8.86,
     "2000 to 2014 middle income change": -7.16,
-    "2000 to 2014 upper income change": -1.68
+    "2000 to 2014 upper income change": -1.68,
+    "": 0
   },
   {
     "Id": 120,
@@ -1317,7 +1436,8 @@
     "2014 upper income share": 8.93,
     "2000 to 2014 lower income change": -7.36,
     "2000 to 2014 middle income change": 6.35,
-    "2000 to 2014 upper income change": 1.01
+    "2000 to 2014 upper income change": 1.01,
+    "": 0
   },
   {
     "Id": 121,
@@ -1328,7 +1448,8 @@
     "2014 upper income share": 12.83,
     "2000 to 2014 lower income change": 4.21,
     "2000 to 2014 middle income change": -3.24,
-    "2000 to 2014 upper income change": -0.97
+    "2000 to 2014 upper income change": -0.97,
+    "": 0
   },
   {
     "Id": 122,
@@ -1339,7 +1460,8 @@
     "2014 upper income share": 18.65,
     "2000 to 2014 lower income change": 3.82,
     "2000 to 2014 middle income change": -4.63,
-    "2000 to 2014 upper income change": 0.81
+    "2000 to 2014 upper income change": 0.81,
+    "": 0
   },
   {
     "Id": 123,
@@ -1350,7 +1472,8 @@
     "2014 upper income share": 9.52,
     "2000 to 2014 lower income change": 1.12,
     "2000 to 2014 middle income change": -0.31,
-    "2000 to 2014 upper income change": -0.81
+    "2000 to 2014 upper income change": -0.81,
+    "": 0
   },
   {
     "Id": 124,
@@ -1361,7 +1484,8 @@
     "2014 upper income share": 14.83,
     "2000 to 2014 lower income change": 3.08,
     "2000 to 2014 middle income change": -2.49,
-    "2000 to 2014 upper income change": -0.59
+    "2000 to 2014 upper income change": -0.59,
+    "": 0
   },
   {
     "Id": 125,
@@ -1372,7 +1496,8 @@
     "2014 upper income share": 15.94,
     "2000 to 2014 lower income change": 8.82,
     "2000 to 2014 middle income change": -6.21,
-    "2000 to 2014 upper income change": -2.61
+    "2000 to 2014 upper income change": -2.61,
+    "": 0
   },
   {
     "Id": 126,
@@ -1383,7 +1508,8 @@
     "2014 upper income share": 36.75,
     "2000 to 2014 lower income change": -7.58,
     "2000 to 2014 middle income change": -10.7,
-    "2000 to 2014 upper income change": 18.28
+    "2000 to 2014 upper income change": 18.28,
+    "": 0
   },
   {
     "Id": 127,
@@ -1394,7 +1520,8 @@
     "2014 upper income share": 21.95,
     "2000 to 2014 lower income change": 5.72,
     "2000 to 2014 middle income change": -6.37,
-    "2000 to 2014 upper income change": 0.65
+    "2000 to 2014 upper income change": 0.65,
+    "": 0
   },
   {
     "Id": 128,
@@ -1405,7 +1532,8 @@
     "2014 upper income share": 25.36,
     "2000 to 2014 lower income change": 3.68,
     "2000 to 2014 middle income change": -6.46,
-    "2000 to 2014 upper income change": 2.78
+    "2000 to 2014 upper income change": 2.78,
+    "": 0
   },
   {
     "Id": 129,
@@ -1416,7 +1544,8 @@
     "2014 upper income share": 16.03,
     "2000 to 2014 lower income change": -1.32,
     "2000 to 2014 middle income change": -0.33,
-    "2000 to 2014 upper income change": 1.66
+    "2000 to 2014 upper income change": 1.66,
+    "": 0
   },
   {
     "Id": 130,
@@ -1427,7 +1556,8 @@
     "2014 upper income share": 14.12,
     "2000 to 2014 lower income change": 2.66,
     "2000 to 2014 middle income change": -4.69,
-    "2000 to 2014 upper income change": 2.03
+    "2000 to 2014 upper income change": 2.03,
+    "": 0
   },
   {
     "Id": 131,
@@ -1438,7 +1568,8 @@
     "2014 upper income share": 19.51,
     "2000 to 2014 lower income change": 4.76,
     "2000 to 2014 middle income change": -8.89,
-    "2000 to 2014 upper income change": 4.14
+    "2000 to 2014 upper income change": 4.14,
+    "": 0
   },
   {
     "Id": 132,
@@ -1449,7 +1580,8 @@
     "2014 upper income share": 17.92,
     "2000 to 2014 lower income change": 5.81,
     "2000 to 2014 middle income change": -2.96,
-    "2000 to 2014 upper income change": -2.84
+    "2000 to 2014 upper income change": -2.84,
+    "": 0
   },
   {
     "Id": 133,
@@ -1460,7 +1592,8 @@
     "2014 upper income share": 18.81,
     "2000 to 2014 lower income change": 3.05,
     "2000 to 2014 middle income change": -3.94,
-    "2000 to 2014 upper income change": 0.9
+    "2000 to 2014 upper income change": 0.9,
+    "": 0
   },
   {
     "Id": 134,
@@ -1471,7 +1604,8 @@
     "2014 upper income share": 16.28,
     "2000 to 2014 lower income change": 0.81,
     "2000 to 2014 middle income change": -3.77,
-    "2000 to 2014 upper income change": 2.95
+    "2000 to 2014 upper income change": 2.95,
+    "": 0
   },
   {
     "Id": 135,
@@ -1482,7 +1616,8 @@
     "2014 upper income share": 13.06,
     "2000 to 2014 lower income change": 2.32,
     "2000 to 2014 middle income change": -1.31,
-    "2000 to 2014 upper income change": -1.02
+    "2000 to 2014 upper income change": -1.02,
+    "": 0
   },
   {
     "Id": 136,
@@ -1493,7 +1628,8 @@
     "2014 upper income share": 12.4,
     "2000 to 2014 lower income change": 6.13,
     "2000 to 2014 middle income change": -3.91,
-    "2000 to 2014 upper income change": -2.23
+    "2000 to 2014 upper income change": -2.23,
+    "": 0
   },
   {
     "Id": 137,
@@ -1504,7 +1640,8 @@
     "2014 upper income share": 23.45,
     "2000 to 2014 lower income change": -1.46,
     "2000 to 2014 middle income change": -5.15,
-    "2000 to 2014 upper income change": 6.62
+    "2000 to 2014 upper income change": 6.62,
+    "": 0
   },
   {
     "Id": 138,
@@ -1515,7 +1652,8 @@
     "2014 upper income share": 21.79,
     "2000 to 2014 lower income change": 5.13,
     "2000 to 2014 middle income change": -1.96,
-    "2000 to 2014 upper income change": -3.18
+    "2000 to 2014 upper income change": -3.18,
+    "": 0
   },
   {
     "Id": 139,
@@ -1526,7 +1664,8 @@
     "2014 upper income share": 19.79,
     "2000 to 2014 lower income change": 4.53,
     "2000 to 2014 middle income change": -5.1,
-    "2000 to 2014 upper income change": 0.57
+    "2000 to 2014 upper income change": 0.57,
+    "": 0
   },
   {
     "Id": 140,
@@ -1537,7 +1676,8 @@
     "2014 upper income share": 22.33,
     "2000 to 2014 lower income change": 1.75,
     "2000 to 2014 middle income change": -7.89,
-    "2000 to 2014 upper income change": 6.14
+    "2000 to 2014 upper income change": 6.14,
+    "": 0
   },
   {
     "Id": 141,
@@ -1548,7 +1688,8 @@
     "2014 upper income share": 20.55,
     "2000 to 2014 lower income change": -5.29,
     "2000 to 2014 middle income change": -2.07,
-    "2000 to 2014 upper income change": 7.36
+    "2000 to 2014 upper income change": 7.36,
+    "": 0
   },
   {
     "Id": 142,
@@ -1559,7 +1700,8 @@
     "2014 upper income share": 21.03,
     "2000 to 2014 lower income change": -0.05,
     "2000 to 2014 middle income change": -2.68,
-    "2000 to 2014 upper income change": 2.73
+    "2000 to 2014 upper income change": 2.73,
+    "": 0
   },
   {
     "Id": 143,
@@ -1570,7 +1712,8 @@
     "2014 upper income share": 22.03,
     "2000 to 2014 lower income change": 6.14,
     "2000 to 2014 middle income change": -11.88,
-    "2000 to 2014 upper income change": 5.74
+    "2000 to 2014 upper income change": 5.74,
+    "": 0
   },
   {
     "Id": 144,
@@ -1581,7 +1724,8 @@
     "2014 upper income share": 19.41,
     "2000 to 2014 lower income change": 1.86,
     "2000 to 2014 middle income change": -3.46,
-    "2000 to 2014 upper income change": 1.6
+    "2000 to 2014 upper income change": 1.6,
+    "": 0
   },
   {
     "Id": 145,
@@ -1592,7 +1736,8 @@
     "2014 upper income share": 28.65,
     "2000 to 2014 lower income change": 0.6,
     "2000 to 2014 middle income change": -8.43,
-    "2000 to 2014 upper income change": 7.83
+    "2000 to 2014 upper income change": 7.83,
+    "": 0
   },
   {
     "Id": 146,
@@ -1603,7 +1748,8 @@
     "2014 upper income share": 12.76,
     "2000 to 2014 lower income change": -2.41,
     "2000 to 2014 middle income change": -0.7,
-    "2000 to 2014 upper income change": 3.12
+    "2000 to 2014 upper income change": 3.12,
+    "": 0
   },
   {
     "Id": 147,
@@ -1614,7 +1760,8 @@
     "2014 upper income share": 18.69,
     "2000 to 2014 lower income change": -2.94,
     "2000 to 2014 middle income change": -0.41,
-    "2000 to 2014 upper income change": 3.36
+    "2000 to 2014 upper income change": 3.36,
+    "": 0
   },
   {
     "Id": 148,
@@ -1625,7 +1772,8 @@
     "2014 upper income share": 20.98,
     "2000 to 2014 lower income change": -14.67,
     "2000 to 2014 middle income change": 3.15,
-    "2000 to 2014 upper income change": 11.51
+    "2000 to 2014 upper income change": 11.51,
+    "": 0
   },
   {
     "Id": 149,
@@ -1636,7 +1784,8 @@
     "2014 upper income share": 18.5,
     "2000 to 2014 lower income change": 0.44,
     "2000 to 2014 middle income change": -2.05,
-    "2000 to 2014 upper income change": 1.61
+    "2000 to 2014 upper income change": 1.61,
+    "": 0
   },
   {
     "Id": 150,
@@ -1647,7 +1796,8 @@
     "2014 upper income share": 20.61,
     "2000 to 2014 lower income change": -2.35,
     "2000 to 2014 middle income change": -3.28,
-    "2000 to 2014 upper income change": 5.63
+    "2000 to 2014 upper income change": 5.63,
+    "": 0
   },
   {
     "Id": 151,
@@ -1658,7 +1808,8 @@
     "2014 upper income share": 21.48,
     "2000 to 2014 lower income change": -0.73,
     "2000 to 2014 middle income change": -5.81,
-    "2000 to 2014 upper income change": 6.53
+    "2000 to 2014 upper income change": 6.53,
+    "": 0
   },
   {
     "Id": 152,
@@ -1669,7 +1820,8 @@
     "2014 upper income share": 22.17,
     "2000 to 2014 lower income change": 1.34,
     "2000 to 2014 middle income change": -6.28,
-    "2000 to 2014 upper income change": 4.94
+    "2000 to 2014 upper income change": 4.94,
+    "": 0
   },
   {
     "Id": 153,
@@ -1680,7 +1832,8 @@
     "2014 upper income share": 15.73,
     "2000 to 2014 lower income change": 6.09,
     "2000 to 2014 middle income change": -6.83,
-    "2000 to 2014 upper income change": 0.75
+    "2000 to 2014 upper income change": 0.75,
+    "": 0
   },
   {
     "Id": 154,
@@ -1691,7 +1844,8 @@
     "2014 upper income share": 13.76,
     "2000 to 2014 lower income change": 2.42,
     "2000 to 2014 middle income change": 0.27,
-    "2000 to 2014 upper income change": -2.69
+    "2000 to 2014 upper income change": -2.69,
+    "": 0
   },
   {
     "Id": 155,
@@ -1702,7 +1856,8 @@
     "2014 upper income share": 20.41,
     "2000 to 2014 lower income change": 3.03,
     "2000 to 2014 middle income change": -3.13,
-    "2000 to 2014 upper income change": 0.1
+    "2000 to 2014 upper income change": 0.1,
+    "": 0
   },
   {
     "Id": 156,
@@ -1713,7 +1868,8 @@
     "2014 upper income share": 16.62,
     "2000 to 2014 lower income change": 1.01,
     "2000 to 2014 middle income change": -2.44,
-    "2000 to 2014 upper income change": 1.43
+    "2000 to 2014 upper income change": 1.43,
+    "": 0
   },
   {
     "Id": 157,
@@ -1724,7 +1880,8 @@
     "2014 upper income share": 16.52,
     "2000 to 2014 lower income change": -3.91,
     "2000 to 2014 middle income change": 1.48,
-    "2000 to 2014 upper income change": 2.43
+    "2000 to 2014 upper income change": 2.43,
+    "": 0
   },
   {
     "Id": 158,
@@ -1735,7 +1892,8 @@
     "2014 upper income share": 22.4,
     "2000 to 2014 lower income change": 1.55,
     "2000 to 2014 middle income change": -5.5,
-    "2000 to 2014 upper income change": 3.94
+    "2000 to 2014 upper income change": 3.94,
+    "": 0
   },
   {
     "Id": 159,
@@ -1746,7 +1904,8 @@
     "2014 upper income share": 18.56,
     "2000 to 2014 lower income change": 1.81,
     "2000 to 2014 middle income change": -3.54,
-    "2000 to 2014 upper income change": 1.73
+    "2000 to 2014 upper income change": 1.73,
+    "": 0
   },
   {
     "Id": 160,
@@ -1757,7 +1916,8 @@
     "2014 upper income share": 21.86,
     "2000 to 2014 lower income change": -2,
     "2000 to 2014 middle income change": -2.76,
-    "2000 to 2014 upper income change": 4.76
+    "2000 to 2014 upper income change": 4.76,
+    "": 0
   },
   {
     "Id": 161,
@@ -1768,7 +1928,8 @@
     "2014 upper income share": 15.35,
     "2000 to 2014 lower income change": 1.03,
     "2000 to 2014 middle income change": -0.25,
-    "2000 to 2014 upper income change": -0.78
+    "2000 to 2014 upper income change": -0.78,
+    "": 0
   },
   {
     "Id": 162,
@@ -1779,7 +1940,8 @@
     "2014 upper income share": 20.97,
     "2000 to 2014 lower income change": -0.78,
     "2000 to 2014 middle income change": -5.02,
-    "2000 to 2014 upper income change": 5.81
+    "2000 to 2014 upper income change": 5.81,
+    "": 0
   },
   {
     "Id": 163,
@@ -1790,7 +1952,8 @@
     "2014 upper income share": 21.29,
     "2000 to 2014 lower income change": 3.06,
     "2000 to 2014 middle income change": -5.67,
-    "2000 to 2014 upper income change": 2.61
+    "2000 to 2014 upper income change": 2.61,
+    "": 0
   },
   {
     "Id": 164,
@@ -1801,7 +1964,8 @@
     "2014 upper income share": 14.39,
     "2000 to 2014 lower income change": -1.22,
     "2000 to 2014 middle income change": -0.55,
-    "2000 to 2014 upper income change": 1.77
+    "2000 to 2014 upper income change": 1.77,
+    "": 0
   },
   {
     "Id": 165,
@@ -1812,7 +1976,8 @@
     "2014 upper income share": 22.21,
     "2000 to 2014 lower income change": -0.89,
     "2000 to 2014 middle income change": -5.34,
-    "2000 to 2014 upper income change": 6.23
+    "2000 to 2014 upper income change": 6.23,
+    "": 0
   },
   {
     "Id": 166,
@@ -1823,7 +1988,8 @@
     "2014 upper income share": 13.79,
     "2000 to 2014 lower income change": -0.46,
     "2000 to 2014 middle income change": -1.89,
-    "2000 to 2014 upper income change": 2.34
+    "2000 to 2014 upper income change": 2.34,
+    "": 0
   },
   {
     "Id": 167,
@@ -1834,7 +2000,8 @@
     "2014 upper income share": 11.72,
     "2000 to 2014 lower income change": 4.43,
     "2000 to 2014 middle income change": -6.07,
-    "2000 to 2014 upper income change": 1.64
+    "2000 to 2014 upper income change": 1.64,
+    "": 0
   },
   {
     "Id": 168,
@@ -1845,7 +2012,8 @@
     "2014 upper income share": 17.25,
     "2000 to 2014 lower income change": 0.71,
     "2000 to 2014 middle income change": -5.83,
-    "2000 to 2014 upper income change": 5.12
+    "2000 to 2014 upper income change": 5.12,
+    "": 0
   },
   {
     "Id": 169,
@@ -1856,7 +2024,8 @@
     "2014 upper income share": 21.62,
     "2000 to 2014 lower income change": 6.6,
     "2000 to 2014 middle income change": -7.74,
-    "2000 to 2014 upper income change": 1.14
+    "2000 to 2014 upper income change": 1.14,
+    "": 0
   },
   {
     "Id": 170,
@@ -1867,7 +2036,8 @@
     "2014 upper income share": 24.96,
     "2000 to 2014 lower income change": 5.43,
     "2000 to 2014 middle income change": -5.14,
-    "2000 to 2014 upper income change": -0.3
+    "2000 to 2014 upper income change": -0.3,
+    "": 0
   },
   {
     "Id": 171,
@@ -1878,7 +2048,8 @@
     "2014 upper income share": 18.03,
     "2000 to 2014 lower income change": 3.66,
     "2000 to 2014 middle income change": -6.48,
-    "2000 to 2014 upper income change": 2.82
+    "2000 to 2014 upper income change": 2.82,
+    "": 0
   },
   {
     "Id": 172,
@@ -1889,7 +2060,8 @@
     "2014 upper income share": 14.3,
     "2000 to 2014 lower income change": -2.78,
     "2000 to 2014 middle income change": 0.04,
-    "2000 to 2014 upper income change": 2.74
+    "2000 to 2014 upper income change": 2.74,
+    "": 0
   },
   {
     "Id": 173,
@@ -1900,7 +2072,8 @@
     "2014 upper income share": 16.84,
     "2000 to 2014 lower income change": 7.2,
     "2000 to 2014 middle income change": -6.24,
-    "2000 to 2014 upper income change": -0.97
+    "2000 to 2014 upper income change": -0.97,
+    "": 0
   },
   {
     "Id": 174,
@@ -1911,7 +2084,8 @@
     "2014 upper income share": 24.21,
     "2000 to 2014 lower income change": 1.17,
     "2000 to 2014 middle income change": -4.65,
-    "2000 to 2014 upper income change": 3.49
+    "2000 to 2014 upper income change": 3.49,
+    "": 0
   },
   {
     "Id": 175,
@@ -1922,7 +2096,8 @@
     "2014 upper income share": 13.37,
     "2000 to 2014 lower income change": 0.89,
     "2000 to 2014 middle income change": -2,
-    "2000 to 2014 upper income change": 1.11
+    "2000 to 2014 upper income change": 1.11,
+    "": 0
   },
   {
     "Id": 176,
@@ -1933,7 +2108,8 @@
     "2014 upper income share": 18.04,
     "2000 to 2014 lower income change": 3,
     "2000 to 2014 middle income change": -2.89,
-    "2000 to 2014 upper income change": -0.11
+    "2000 to 2014 upper income change": -0.11,
+    "": 0
   },
   {
     "Id": 177,
@@ -1944,7 +2120,8 @@
     "2014 upper income share": 18.18,
     "2000 to 2014 lower income change": 8.27,
     "2000 to 2014 middle income change": -6.87,
-    "2000 to 2014 upper income change": -1.4
+    "2000 to 2014 upper income change": -1.4,
+    "": 0
   },
   {
     "Id": 178,
@@ -1955,7 +2132,8 @@
     "2014 upper income share": 12.28,
     "2000 to 2014 lower income change": 6.29,
     "2000 to 2014 middle income change": -3.21,
-    "2000 to 2014 upper income change": -3.08
+    "2000 to 2014 upper income change": -3.08,
+    "": 0
   },
   {
     "Id": 179,
@@ -1966,7 +2144,8 @@
     "2014 upper income share": 21.71,
     "2000 to 2014 lower income change": 3.36,
     "2000 to 2014 middle income change": -6.05,
-    "2000 to 2014 upper income change": 2.69
+    "2000 to 2014 upper income change": 2.69,
+    "": 0
   },
   {
     "Id": 180,
@@ -1977,7 +2156,8 @@
     "2014 upper income share": 14.85,
     "2000 to 2014 lower income change": 1.92,
     "2000 to 2014 middle income change": -0.13,
-    "2000 to 2014 upper income change": -1.79
+    "2000 to 2014 upper income change": -1.79,
+    "": 0
   },
   {
     "Id": 181,
@@ -1988,7 +2168,8 @@
     "2014 upper income share": 15.36,
     "2000 to 2014 lower income change": 4.71,
     "2000 to 2014 middle income change": -3.51,
-    "2000 to 2014 upper income change": -1.2
+    "2000 to 2014 upper income change": -1.2,
+    "": 0
   },
   {
     "Id": 182,
@@ -1999,7 +2180,8 @@
     "2014 upper income share": 22.52,
     "2000 to 2014 lower income change": -1.4,
     "2000 to 2014 middle income change": -3.93,
-    "2000 to 2014 upper income change": 5.33
+    "2000 to 2014 upper income change": 5.33,
+    "": 0
   },
   {
     "Id": 183,
@@ -2010,7 +2192,8 @@
     "2014 upper income share": 17.75,
     "2000 to 2014 lower income change": 3.35,
     "2000 to 2014 middle income change": -4.81,
-    "2000 to 2014 upper income change": 1.44
+    "2000 to 2014 upper income change": 1.44,
+    "": 0
   },
   {
     "Id": 184,
@@ -2021,7 +2204,8 @@
     "2014 upper income share": 15.46,
     "2000 to 2014 lower income change": -5.94,
     "2000 to 2014 middle income change": 1.49,
-    "2000 to 2014 upper income change": 4.45
+    "2000 to 2014 upper income change": 4.45,
+    "": 0
   },
   {
     "Id": 185,
@@ -2032,7 +2216,8 @@
     "2014 upper income share": 18.29,
     "2000 to 2014 lower income change": -2.69,
     "2000 to 2014 middle income change": -0.35,
-    "2000 to 2014 upper income change": 3.03
+    "2000 to 2014 upper income change": 3.03,
+    "": 0
   },
   {
     "Id": 186,
@@ -2043,7 +2228,8 @@
     "2014 upper income share": 18.24,
     "2000 to 2014 lower income change": 0.02,
     "2000 to 2014 middle income change": -2.63,
-    "2000 to 2014 upper income change": 2.61
+    "2000 to 2014 upper income change": 2.61,
+    "": 0
   },
   {
     "Id": 187,
@@ -2054,7 +2240,8 @@
     "2014 upper income share": 28.09,
     "2000 to 2014 lower income change": 0.63,
     "2000 to 2014 middle income change": -4.96,
-    "2000 to 2014 upper income change": 4.34
+    "2000 to 2014 upper income change": 4.34,
+    "": 0
   },
   {
     "Id": 188,
@@ -2065,7 +2252,8 @@
     "2014 upper income share": 31.12,
     "2000 to 2014 lower income change": 1.19,
     "2000 to 2014 middle income change": -4.23,
-    "2000 to 2014 upper income change": 3.05
+    "2000 to 2014 upper income change": 3.05,
+    "": 0
   },
   {
     "Id": 189,
@@ -2076,7 +2264,8 @@
     "2014 upper income share": 18.94,
     "2000 to 2014 lower income change": -1.25,
     "2000 to 2014 middle income change": -0.9,
-    "2000 to 2014 upper income change": 2.16
+    "2000 to 2014 upper income change": 2.16,
+    "": 0
   },
   {
     "Id": 190,
@@ -2087,7 +2276,8 @@
     "2014 upper income share": 19.45,
     "2000 to 2014 lower income change": -0.8,
     "2000 to 2014 middle income change": 0.16,
-    "2000 to 2014 upper income change": 0.64
+    "2000 to 2014 upper income change": 0.64,
+    "": 0
   },
   {
     "Id": 191,
@@ -2098,7 +2288,8 @@
     "2014 upper income share": 21.26,
     "2000 to 2014 lower income change": 5.29,
     "2000 to 2014 middle income change": -3.41,
-    "2000 to 2014 upper income change": -1.9
+    "2000 to 2014 upper income change": -1.9,
+    "": 0
   },
   {
     "Id": 192,
@@ -2109,7 +2300,8 @@
     "2014 upper income share": 19.93,
     "2000 to 2014 lower income change": 3.21,
     "2000 to 2014 middle income change": -4.2,
-    "2000 to 2014 upper income change": 0.99
+    "2000 to 2014 upper income change": 0.99,
+    "": 0
   },
   {
     "Id": 193,
@@ -2120,7 +2312,8 @@
     "2014 upper income share": 19.08,
     "2000 to 2014 lower income change": 1.91,
     "2000 to 2014 middle income change": -4.77,
-    "2000 to 2014 upper income change": 2.86
+    "2000 to 2014 upper income change": 2.86,
+    "": 0
   },
   {
     "Id": 194,
@@ -2131,7 +2324,8 @@
     "2014 upper income share": 15.84,
     "2000 to 2014 lower income change": -0.39,
     "2000 to 2014 middle income change": -2.88,
-    "2000 to 2014 upper income change": 3.28
+    "2000 to 2014 upper income change": 3.28,
+    "": 0
   },
   {
     "Id": 195,
@@ -2142,7 +2336,8 @@
     "2014 upper income share": 26.17,
     "2000 to 2014 lower income change": 1.13,
     "2000 to 2014 middle income change": -6.81,
-    "2000 to 2014 upper income change": 5.68
+    "2000 to 2014 upper income change": 5.68,
+    "": 0
   },
   {
     "Id": 196,
@@ -2153,7 +2348,8 @@
     "2014 upper income share": 18.65,
     "2000 to 2014 lower income change": 2.62,
     "2000 to 2014 middle income change": -6.4,
-    "2000 to 2014 upper income change": 3.8
+    "2000 to 2014 upper income change": 3.8,
+    "": 0
   },
   {
     "Id": 197,
@@ -2164,7 +2360,8 @@
     "2014 upper income share": 17.89,
     "2000 to 2014 lower income change": 0.1,
     "2000 to 2014 middle income change": -2.26,
-    "2000 to 2014 upper income change": 2.16
+    "2000 to 2014 upper income change": 2.16,
+    "": 0
   },
   {
     "Id": 198,
@@ -2175,7 +2372,8 @@
     "2014 upper income share": 17.2,
     "2000 to 2014 lower income change": 6.43,
     "2000 to 2014 middle income change": -6.74,
-    "2000 to 2014 upper income change": 0.3
+    "2000 to 2014 upper income change": 0.3,
+    "": 0
   },
   {
     "Id": 199,
@@ -2186,7 +2384,8 @@
     "2014 upper income share": 15.77,
     "2000 to 2014 lower income change": 3.9,
     "2000 to 2014 middle income change": -5.52,
-    "2000 to 2014 upper income change": 1.62
+    "2000 to 2014 upper income change": 1.62,
+    "": 0
   },
   {
     "Id": 200,
@@ -2197,7 +2396,8 @@
     "2014 upper income share": 25.92,
     "2000 to 2014 lower income change": 4.23,
     "2000 to 2014 middle income change": -11.63,
-    "2000 to 2014 upper income change": 7.4
+    "2000 to 2014 upper income change": 7.4,
+    "": 0
   },
   {
     "Id": 201,
@@ -2208,7 +2408,8 @@
     "2014 upper income share": 20.15,
     "2000 to 2014 lower income change": 2.73,
     "2000 to 2014 middle income change": -7.1,
-    "2000 to 2014 upper income change": 4.36
+    "2000 to 2014 upper income change": 4.36,
+    "": 0
   },
   {
     "Id": 202,
@@ -2219,7 +2420,8 @@
     "2014 upper income share": 12.91,
     "2000 to 2014 lower income change": 6.18,
     "2000 to 2014 middle income change": -5.19,
-    "2000 to 2014 upper income change": -0.98
+    "2000 to 2014 upper income change": -0.98,
+    "": 0
   },
   {
     "Id": 203,
@@ -2230,7 +2432,8 @@
     "2014 upper income share": 12.79,
     "2000 to 2014 lower income change": 10.88,
     "2000 to 2014 middle income change": -6.08,
-    "2000 to 2014 upper income change": -4.79
+    "2000 to 2014 upper income change": -4.79,
+    "": 0
   },
   {
     "Id": 204,
@@ -2241,7 +2444,8 @@
     "2014 upper income share": 24.72,
     "2000 to 2014 lower income change": 3.42,
     "2000 to 2014 middle income change": -4.94,
-    "2000 to 2014 upper income change": 1.51
+    "2000 to 2014 upper income change": 1.51,
+    "": 0
   },
   {
     "Id": 205,
@@ -2252,7 +2456,8 @@
     "2014 upper income share": 15.28,
     "2000 to 2014 lower income change": -2.12,
     "2000 to 2014 middle income change": 0.02,
-    "2000 to 2014 upper income change": 2.11
+    "2000 to 2014 upper income change": 2.11,
+    "": 0
   },
   {
     "Id": 206,
@@ -2263,7 +2468,8 @@
     "2014 upper income share": 14.92,
     "2000 to 2014 lower income change": 0.24,
     "2000 to 2014 middle income change": -1.45,
-    "2000 to 2014 upper income change": 1.21
+    "2000 to 2014 upper income change": 1.21,
+    "": 0
   },
   {
     "Id": 207,
@@ -2274,7 +2480,8 @@
     "2014 upper income share": 19.17,
     "2000 to 2014 lower income change": -1.13,
     "2000 to 2014 middle income change": -2.15,
-    "2000 to 2014 upper income change": 3.28
+    "2000 to 2014 upper income change": 3.28,
+    "": 0
   },
   {
     "Id": 208,
@@ -2285,7 +2492,8 @@
     "2014 upper income share": 15.68,
     "2000 to 2014 lower income change": 3.9,
     "2000 to 2014 middle income change": -4.55,
-    "2000 to 2014 upper income change": 0.66
+    "2000 to 2014 upper income change": 0.66,
+    "": 0
   },
   {
     "Id": 209,
@@ -2296,7 +2504,8 @@
     "2014 upper income share": 18.15,
     "2000 to 2014 lower income change": 4.54,
     "2000 to 2014 middle income change": -5.18,
-    "2000 to 2014 upper income change": 0.64
+    "2000 to 2014 upper income change": 0.64,
+    "": 0
   },
   {
     "Id": 210,
@@ -2307,7 +2516,8 @@
     "2014 upper income share": 28.09,
     "2000 to 2014 lower income change": 2.19,
     "2000 to 2014 middle income change": -5.84,
-    "2000 to 2014 upper income change": 3.65
+    "2000 to 2014 upper income change": 3.65,
+    "": 0
   },
   {
     "Id": 211,
@@ -2318,7 +2528,8 @@
     "2014 upper income share": 17.23,
     "2000 to 2014 lower income change": 2.34,
     "2000 to 2014 middle income change": -4.75,
-    "2000 to 2014 upper income change": 2.42
+    "2000 to 2014 upper income change": 2.42,
+    "": 0
   },
   {
     "Id": 212,
@@ -2329,7 +2540,8 @@
     "2014 upper income share": 16.36,
     "2000 to 2014 lower income change": 4.35,
     "2000 to 2014 middle income change": -5.04,
-    "2000 to 2014 upper income change": 0.7
+    "2000 to 2014 upper income change": 0.7,
+    "": 0
   },
   {
     "Id": 213,
@@ -2340,7 +2552,8 @@
     "2014 upper income share": 15.32,
     "2000 to 2014 lower income change": -6.4,
     "2000 to 2014 middle income change": 3.97,
-    "2000 to 2014 upper income change": 2.43
+    "2000 to 2014 upper income change": 2.43,
+    "": 0
   },
   {
     "Id": 214,
@@ -2351,7 +2564,8 @@
     "2014 upper income share": 14.91,
     "2000 to 2014 lower income change": 0.52,
     "2000 to 2014 middle income change": -3.82,
-    "2000 to 2014 upper income change": 3.31
+    "2000 to 2014 upper income change": 3.31,
+    "": 0
   },
   {
     "Id": 215,
@@ -2362,7 +2576,8 @@
     "2014 upper income share": 16.03,
     "2000 to 2014 lower income change": 0.81,
     "2000 to 2014 middle income change": -3.32,
-    "2000 to 2014 upper income change": 2.5
+    "2000 to 2014 upper income change": 2.5,
+    "": 0
   },
   {
     "Id": 216,
@@ -2373,7 +2588,8 @@
     "2014 upper income share": 20.14,
     "2000 to 2014 lower income change": -1.25,
     "2000 to 2014 middle income change": -3.55,
-    "2000 to 2014 upper income change": 4.81
+    "2000 to 2014 upper income change": 4.81,
+    "": 0
   },
   {
     "Id": 217,
@@ -2384,7 +2600,8 @@
     "2014 upper income share": 9.33,
     "2000 to 2014 lower income change": 3.2,
     "2000 to 2014 middle income change": -2.18,
-    "2000 to 2014 upper income change": -1.02
+    "2000 to 2014 upper income change": -1.02,
+    "": 0
   },
   {
     "Id": 218,
@@ -2395,7 +2612,8 @@
     "2014 upper income share": 13.29,
     "2000 to 2014 lower income change": -0.33,
     "2000 to 2014 middle income change": 0.38,
-    "2000 to 2014 upper income change": -0.05
+    "2000 to 2014 upper income change": -0.05,
+    "": 0
   },
   {
     "Id": 219,
@@ -2406,7 +2624,8 @@
     "2014 upper income share": 31.64,
     "2000 to 2014 lower income change": -0.1,
     "2000 to 2014 middle income change": -6.1,
-    "2000 to 2014 upper income change": 6.2
+    "2000 to 2014 upper income change": 6.2,
+    "": 0
   },
   {
     "Id": 220,
@@ -2417,7 +2636,8 @@
     "2014 upper income share": 14.57,
     "2000 to 2014 lower income change": 0.3,
     "2000 to 2014 middle income change": 0.97,
-    "2000 to 2014 upper income change": -1.26
+    "2000 to 2014 upper income change": -1.26,
+    "": 0
   },
   {
     "Id": 221,
@@ -2428,7 +2648,8 @@
     "2014 upper income share": 13.73,
     "2000 to 2014 lower income change": -1.82,
     "2000 to 2014 middle income change": -1.01,
-    "2000 to 2014 upper income change": 2.83
+    "2000 to 2014 upper income change": 2.83,
+    "": 0
   },
   {
     "Id": 222,
@@ -2439,7 +2660,8 @@
     "2014 upper income share": 17.71,
     "2000 to 2014 lower income change": 4.78,
     "2000 to 2014 middle income change": -4.25,
-    "2000 to 2014 upper income change": -0.53
+    "2000 to 2014 upper income change": -0.53,
+    "": 0
   },
   {
     "Id": 223,
@@ -2450,7 +2672,8 @@
     "2014 upper income share": 15.97,
     "2000 to 2014 lower income change": 7.85,
     "2000 to 2014 middle income change": -6.41,
-    "2000 to 2014 upper income change": -1.44
+    "2000 to 2014 upper income change": -1.44,
+    "": 0
   },
   {
     "Id": 224,
@@ -2461,7 +2684,8 @@
     "2014 upper income share": 23.5,
     "2000 to 2014 lower income change": -0.36,
     "2000 to 2014 middle income change": -6.99,
-    "2000 to 2014 upper income change": 7.34
+    "2000 to 2014 upper income change": 7.34,
+    "": 0
   },
   {
     "Id": 225,
@@ -2472,7 +2696,8 @@
     "2014 upper income share": 12.34,
     "2000 to 2014 lower income change": -0.83,
     "2000 to 2014 middle income change": -0.42,
-    "2000 to 2014 upper income change": 1.25
+    "2000 to 2014 upper income change": 1.25,
+    "": 0
   },
   {
     "Id": 226,
@@ -2483,7 +2708,8 @@
     "2014 upper income share": 19.74,
     "2000 to 2014 lower income change": 3.31,
     "2000 to 2014 middle income change": -7.71,
-    "2000 to 2014 upper income change": 4.4
+    "2000 to 2014 upper income change": 4.4,
+    "": 0
   },
   {
     "Id": 227,
@@ -2494,7 +2720,8 @@
     "2014 upper income share": 12.92,
     "2000 to 2014 lower income change": 0.81,
     "2000 to 2014 middle income change": 1.76,
-    "2000 to 2014 upper income change": -2.57
+    "2000 to 2014 upper income change": -2.57,
+    "": 0
   },
   {
     "Id": 228,
@@ -2505,7 +2732,8 @@
     "2014 upper income share": 11.99,
     "2000 to 2014 lower income change": -0.74,
     "2000 to 2014 middle income change": -0.1,
-    "2000 to 2014 upper income change": 0.84
+    "2000 to 2014 upper income change": 0.84,
+    "": 0
   },
   {
     "Id": 229,
@@ -2516,6 +2744,79 @@
     "2014 upper income share": 9.51,
     "2000 to 2014 lower income change": 1.91,
     "2000 to 2014 middle income change": -1.14,
-    "2000 to 2014 upper income change": -0.78
+    "2000 to 2014 upper income change": -0.78,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": 0,
+    "Metro name": 0,
+    "2014 lower income share": 0,
+    "2014 middle income share": 0,
+    "2014 upper income share": 0,
+    "2000 to 2014 lower income change": 0,
+    "2000 to 2014 middle income change": 0,
+    "2000 to 2014 upper income change": 0,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": "fips",
+    "Metro name": 0,
+    "2014 lower income share": 0,
+    "2014 middle income share": 0,
+    "2014 upper income share": 0,
+    "2000 to 2014 lower income change": 0,
+    "2000 to 2014 middle income change": 0,
+    "2000 to 2014 upper income change": 0,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": 30,
+    "Metro name": "Montana",
+    "2014 lower income share": 30.56,
+    "2014 middle income share": 52.61,
+    "2014 upper income share": 16.82,
+    "2000 to 2014 lower income change": -3.88,
+    "2000 to 2014 middle income change": -2.7,
+    "2000 to 2014 upper income change": 6.58,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": 38,
+    "Metro name": "North Dakota",
+    "2014 lower income share": 19.09,
+    "2014 middle income share": 56.23,
+    "2014 upper income share": 24.68,
+    "2000 to 2014 lower income change": -7.74,
+    "2000 to 2014 middle income change": -4.59,
+    "2000 to 2014 upper income change": 12.33,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": 46,
+    "Metro name": "South Dakota",
+    "2014 lower income share": 22.67,
+    "2014 middle income share": 57.34,
+    "2014 upper income share": 20,
+    "2000 to 2014 lower income change": -3.75,
+    "2000 to 2014 middle income change": -3.23,
+    "2000 to 2014 upper income change": 7,
+    "": 0
+  },
+  {
+    "Id": 0,
+    "GeoFips": 56,
+    "Metro name": "Wyoming",
+    "2014 lower income share": 23.9,
+    "2014 middle income share": 55.35,
+    "2014 upper income share": 20.75,
+    "2000 to 2014 lower income change": -5.62,
+    "2000 to 2014 middle income change": -2.91,
+    "2000 to 2014 upper income change": 8.53,
+    "": 0
   }
 ]
